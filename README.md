@@ -10,8 +10,12 @@ Se implementaron servicios esenciales como DHCP para la asignación automática 
 
 Introducción:
 En este laboratorio se busca como hacer una topología de red en donde se permita integrar dispositivos con servicios en la nube, y que existe comunicación de datos entre ellos. Todo eso logrado en Cisco Packet Tracer.
+## Topología General del Escenario
+![Topología General](imagenesWiki/topologia_corporate_internet_servidores.png)
 
 Cisco Packet Tracer
+
+
 	Cisco Packet Tracer es un software de simulación de redes de computadores. El objetivo principal es ayudar a estudiantes a aprender los principios de redes de una forma mas practica sin la necesidad de conseguir dispositivos costosos. Aunque no remplaza practicas en equipamiento real, si ayuda a desarrollar habilidades en el diseño y simulación de redes. [1]
 
 
